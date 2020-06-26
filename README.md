@@ -25,9 +25,9 @@ The exercises were pretty straight forward and not very challenging. However, I 
 ## Results
 In conclusion, Louise should launch her crowdfunding preferrable in May because May outperformed all other months. If that is not possible, she should launch in the summer months vs November or December, the 2 worst months of the year to start a crowdfunding theater project. Her goal should be between $1k to $5K, with a 86% success rate and she should stay away from anything higher than  $45K. The failure rate for projects between $45,000 and $49,999 is at 100%.
 
-###Limitations
+### Limitations
 
 This dataset provides a general overview of all the crowdfunding projects globally. Louise should drill down to her country's dataset to help her get better analysis on crowdfunding data.
 
-###Additional Resources
+### Additional Resources
 We could redo most of the charts for her specific country. In addtion, it would be nice to see how the project length plays a role in the outcome. Hence, a line chart for Theater Outcomes based on project lengths.
